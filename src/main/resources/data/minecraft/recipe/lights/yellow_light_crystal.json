@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:glass"
+    },
+    "B": {
+      "item": "infinity_nexus_miner:amber_crystal"
+    },
+    "C": {
+      "item": "minecraft:quartz_slab"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "CCC"
+  ],
+  "result": {
+    "id": "infinity_nexus_miner:yellow_light_crystal"
+  },
+  "show_notification": true
+}

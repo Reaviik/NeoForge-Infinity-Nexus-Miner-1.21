@@ -1,0 +1,31 @@
+{
+  "variants":{
+    "facing=north,lit=0":{"model": "infinity_nexus_miner:block/copper_structure"},
+    "facing=south,lit=0":{"model": "infinity_nexus_miner:block/copper_structure"},
+    "facing=west,lit=0":{"model": "infinity_nexus_miner:block/copper_structure"},
+    "facing=east,lit=0":{"model": "infinity_nexus_miner:block/copper_structure"},
+    "facing=up,lit=0":{"model": "infinity_nexus_miner:block/copper_structure"},
+    "facing=down,lit=0":{"model": "infinity_nexus_miner:block/copper_structure"},
+
+    "facing=north,lit=1":{"model": "infinity_nexus_miner:block/copper_structure_0", "x": -90, "y": -90},
+    "facing=south,lit=1":{"model": "infinity_nexus_miner:block/copper_structure_0", "x": 90, "y": 90},
+    "facing=west,lit=1":{"model": "infinity_nexus_miner:block/copper_structure_0", "x": 90},
+    "facing=east,lit=1":{"model": "infinity_nexus_miner:block/copper_structure_0", "x": -90},
+    "facing=up,lit=1":{"model": "infinity_nexus_miner:block/copper_structure_0"},
+    "facing=down,lit=1":{"model": "infinity_nexus_miner:block/copper_structure_0"},
+
+    "facing=north,lit=2":{"model": "infinity_nexus_miner:block/copper_structure_1"},
+    "facing=south,lit=2":{"model": "infinity_nexus_miner:block/copper_structure_1", "y": 90},
+    "facing=west,lit=2":{"model": "infinity_nexus_miner:block/copper_structure_1", "y": 180},
+    "facing=east,lit=2":{"model": "infinity_nexus_miner:block/copper_structure_1", "y": 270},
+    "facing=up,lit=2":{"model": "infinity_nexus_miner:block/copper_structure_1"},
+    "facing=down,lit=2":{"model": "infinity_nexus_miner:block/copper_structure_1"},
+
+    "facing=north,lit=3":{"model": "infinity_nexus_miner:block/copper_structure_2"},
+    "facing=south,lit=3":{"model": "infinity_nexus_miner:block/copper_structure_2", "y": 90},
+    "facing=west,lit=3":{"model": "infinity_nexus_miner:block/copper_structure_2", "y": 180},
+    "facing=east,lit=3":{"model": "infinity_nexus_miner:block/copper_structure_2", "y": 270},
+    "facing=up,lit=3":{"model": "infinity_nexus_miner:block/copper_structure_2", "x": 90, "y": 90},
+    "facing=down,lit=3":{"model": "infinity_nexus_miner:block/copper_structure_2", "x": -90, "y": -90}
+  }
+}

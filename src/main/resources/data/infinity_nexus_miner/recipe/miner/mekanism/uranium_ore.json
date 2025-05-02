@@ -1,0 +1,22 @@
+{
+  "type": "infinity_nexus_miner:mining",
+  "energy": 100,
+  "level": {
+    "tag": "infinity_nexus_core:up_5"
+  },
+  "fortune": true,
+  "ingredient": [
+    {
+      "tag": "c:ores/uranium"
+    }
+  ],
+  "output": {
+    "id": "mekanism:raw_uranium"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "mekanism"
+    }
+  ]
+}

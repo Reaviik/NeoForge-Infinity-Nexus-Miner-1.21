@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:glass"
+    },
+    "B": {
+      "item": "infinity_nexus_miner:citrium_crystal"
+    },
+    "C": {
+      "item": "minecraft:quartz_slab"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "CCC"
+  ],
+  "result": {
+    "id": "infinity_nexus_miner:orange_light_crystal"
+  },
+  "show_notification": true
+}

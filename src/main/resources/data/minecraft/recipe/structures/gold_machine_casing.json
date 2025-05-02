@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "B": {
+      "tag": "c:ingots/gold"
+    },
+    "C": {
+      "item": "infinity_nexus_miner:rubium_crystal"
+    }
+  },
+  "pattern": [
+    "BAB",
+    "ACA",
+    "BAB"
+  ],
+  "result": {
+    "id": "infinity_nexus_miner:gold_structure",
+    "count": 1
+  },
+  "show_notification": true
+}

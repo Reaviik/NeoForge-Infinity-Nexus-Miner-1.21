@@ -1,0 +1,16 @@
+{
+  "type": "infinity_nexus_miner:mining",
+  "energy": 100,
+  "level": {
+    "tag": "infinity_nexus_core:up_9"
+  },
+  "fortune": false,
+  "ingredient": [
+    {
+      "item": "c:ores/netherite_scrap"
+    }
+  ],
+  "output": {
+    "id": "minecraft:netherite_scrap"
+  }
+}

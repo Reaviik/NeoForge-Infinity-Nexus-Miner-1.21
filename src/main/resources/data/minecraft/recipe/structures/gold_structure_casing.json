@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "infinity_nexus_miner:iron_structure"
+    },
+    "C": {
+      "item": "infinity_nexus_miner:rubium_crystal"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ACA",
+    " B "
+  ],
+  "result": {
+    "id": "infinity_nexus_miner:gold_structure",
+    "count": 1
+  },
+  "show_notification": true
+}

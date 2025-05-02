@@ -1,0 +1,22 @@
+{
+  "type": "infinity_nexus_miner:mining",
+  "energy": 100,
+  "level": {
+    "tag": "infinity_nexus_core:up_6"
+  },
+  "fortune": true,
+  "ingredient": [
+    {
+      "item": "malum:cthonic_gold_ore"
+    }
+  ],
+  "output": {
+    "id": "malum:cthonic_gold_fragment"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "malum"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "B": {
+      "item": "infinity_nexus_miner:emerald_structure"
+    },
+    "C": {
+      "item": "infinity_nexus_miner:termurium_crystal"
+    }
+  },
+  "pattern": [
+    " A ",
+    "ACA",
+    " B "
+  ],
+  "result": {
+    "id": "infinity_nexus_miner:netherite_structure",
+    "count": 1
+  },
+  "show_notification": true
+}

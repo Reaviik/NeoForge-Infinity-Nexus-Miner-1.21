@@ -1,0 +1,22 @@
+{
+  "type": "infinity_nexus_miner:mining",
+  "energy": 100,
+  "level": {
+    "tag": "infinity_nexus_core:up_4"
+  },
+  "fortune": true,
+  "ingredient": [
+    {
+      "tag": "c:ores/dimensional_shard"
+    }
+  ],
+  "output": {
+    "id": "rftoolsbase:dimensionalshard"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "rftoolsbase"
+    }
+  ]
+}

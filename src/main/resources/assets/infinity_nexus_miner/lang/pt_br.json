@@ -1,0 +1,70 @@
+{
+  "itemGroup.infinity_nexus_miner": "§x§9§0§0§0§9§dInfinity Nexus Miner",
+  "tooltip.infinity_nexus.pressShift": "§bPressione §eShift §bpara ver mais informações",
+
+  "block.infinity_nexus_miner.miner": "Mineradora",
+  "item.infinity_nexus_miner.miner_description": "§5Mineradora Multibloco.\n§bDeve ser colocado na altura correta em relação ao solo, dependendo do nível do componente instalado.\n§9Click the \"A\" button in the upper right corner to assemble the structure.\n§fRedstone: 5° §a-> Estrutura de Madeira.\n§fBásico: 5° §a-> Estrutura de Pedra.\n§eReforçado: 7° §a-> Estrutura de Cobre.\n§eLógico: 7° §a-> Estrutura de Ferro.\n§cAvançado: 9° §a-> Estrutura de Ouro.\n§cRefinado: 9° §a-> Estrutura de Quartzo.\n§5Integral: 11° §a-> Estrutura de Diamante.\n§5Infinito: 11° §a-> Estrutura de Esmeralda.\n§8Ancestral: 11° §a-> Estrutura de Netherite.",
+
+  "infinity_nexus_mod.jei_information": "§9Esta máquina precisa de um componente para funcionar.",
+  "item.infinity_nexus_miner.crystal_description": "§9Este item é obtido atraves da mineradora tier",
+
+  "item.infinity_nexus_miner.amber_crystal": "Crystal de Ambar",
+  "item.infinity_nexus_miner.marine_crystal": "Crystal Marinho",
+  "item.infinity_nexus_miner.citrium_crystal": "Crystal de Citrino",
+  "item.infinity_nexus_miner.rubium_crystal": "Crystal Rubio",
+  "item.infinity_nexus_miner.demetrium_crystal": "Crystal de Demetrio",
+  "item.infinity_nexus_miner.agate_crystal": "Crystal de Agata",
+  "item.infinity_nexus_miner.darium_crystal": "Crystal de Dario",
+  "item.infinity_nexus_miner.termurium_crystal": "Crystal de Termurio",
+
+  "block.infinity_nexus_miner.purple_light_crystal": "Cristal Luminoso Roxo",
+  "block.infinity_nexus_miner.yellow_light_crystal": "Cristal Luminoso Amarelo",
+  "block.infinity_nexus_miner.white_light_crystal": "Cristal Luminoso Branco",
+  "block.infinity_nexus_miner.red_light_crystal": "Cristal Luminoso Vermelho",
+  "block.infinity_nexus_miner.orange_light_crystal": "Cristal Luminoso Laranja",
+  "block.infinity_nexus_miner.pink_light_crystal": "Cristal Luminoso Rosa",
+  "block.infinity_nexus_miner.green_light_crystal": "Cristal Luminoso Verde",
+  "block.infinity_nexus_miner.blue_light_crystal": "Cristal Luminoso Azul",
+  "block.infinity_nexus_miner.ancient_light_crystal": "Cristal Luminoso Ancestral",
+
+  "block.infinity_nexus_miner.purple_clear_glass": "Vidro Roxo Liso",
+  "block.infinity_nexus_miner.yellow_clear_glass": "Vidro Amarelo Liso",
+  "block.infinity_nexus_miner.white_clear_glass": "Vidro Branco Liso",
+  "block.infinity_nexus_miner.red_clear_glass": "Vidro Vermelho Liso",
+  "block.infinity_nexus_miner.orange_clear_glass": "Vidro Laranja Liso",
+  "block.infinity_nexus_miner.pink_clear_glass": "Vidro Rosa Liso",
+  "block.infinity_nexus_miner.green_clear_glass": "Vidro Verde Liso",
+  "block.infinity_nexus_miner.blue_clear_glass": "Vidro Azul Liso",
+  "block.infinity_nexus_miner.ancient_clear_glass": "Vidro Ancestral Liso",
+
+  "block.infinity_nexus_miner.wood_structure": "Estrutura de Madeira",
+  "block.infinity_nexus_miner.stone_structure": "Estrutura de Pedra",
+  "block.infinity_nexus_miner.copper_structure": "Estrutura de Cobre",
+  "block.infinity_nexus_miner.iron_structure": "Estrutura de Ferro",
+  "block.infinity_nexus_miner.gold_structure": "Estrutura de Ouro",
+  "block.infinity_nexus_miner.quartz_structure": "Estrutura de Quartzo",
+  "block.infinity_nexus_miner.diamond_structure": "Estrutura de Diamante",
+  "block.infinity_nexus_miner.emerald_structure": "Estrutura de Esmeralda",
+  "block.infinity_nexus_miner.netherite_structure": "Estrutura de Netherite",
+
+  "tooltip.infinity_nexus_miner.structure_slot_tooltip": "Slot de Estrutura",
+  "tooltip.infinity_nexus_miner.output_slot_tooltip": "Slot's de Saida",
+  "tooltip.infinity_nexus_miner.enchant_slot_tooltip": "Slot de Encantamento: Aceitar Ferramentas ou Livros",
+  "tooltip.infinity_nexus_miner.linking_slot_tooltip": "Slot de Linkagem",
+  "tooltip.infinity_nexus_miner.fuel_slot_tooltip": "Slot de Combustível",
+
+  "block.infinity_nexus_miner.christmas_clear_glass": "Vidro Liso RGB",
+  "block.infinity_nexus_miner.christmas_light_crystal": "Cristal Luminoso RGB",
+  "gui.infinity_nexus_mod.miner.assemble": "Montar Estrutura da Mineradora",
+
+
+  "gui.infinity_nexus_miner.redstone": "Redstone",
+  "gui.infinity_nexus_miner.component": "Componente",
+  "gui.infinity_nexus_miner.energy": "Energia",
+  "gui.infinity_nexus_miner.structure": "Estrutura",
+  "gui.infinity_nexus_miner.slot": "Slot",
+  "gui.infinity_nexus_miner.ores": "Minérios",
+  "gui.infinity_nexus_miner.link_on": "Linkado",
+  "gui.infinity_nexus_miner.link_off": "Deslincado",
+  "gui.infinity_nexus_miner.mining": "Minerando"
+}
